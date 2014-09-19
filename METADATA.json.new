@@ -1,0 +1,32 @@
+{
+  "name": "Eater Caps",
+  "designer": "Typomondo",
+  "license": "OFL",
+  "visibility": "Internal",
+  "category": "Display",
+  "size": 56321,
+  "fonts": [
+    {
+      "name": "Eater Caps",
+      "style": "normal",
+      "weight": 400,
+      "filename": "EaterCaps-Regular.ttf",
+      "postScriptName": "EaterCaps-Regular",
+      "fullName": "Eater Caps Regular",
+      "copyright": "Copyright (c) 2011, Typomondo, with Reserved Font Name  \"Eater\""
+    },
+    {
+      "name": "Eater Caps",
+      "style": "normal",
+      "weight": 400,
+      "filename": "EaterCaps-Regular-TTF.ttf",
+      "postScriptName": "EaterCaps-Regular",
+      "fullName": "Eater Caps Regular",
+      "copyright": "Copyright (c) 2011, Typomondo, with Reserved Font Name  \"Eater\""
+    }
+  ],
+  "subsets": [
+    "latin"
+  ],
+  "dateAdded": "2011-10-24"
+}
